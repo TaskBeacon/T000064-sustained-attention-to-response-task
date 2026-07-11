@@ -1,0 +1,13 @@
+id: T000064
+slug: sustained-attention-to-response-task
+title: Sustained Attention to Response Task
+acquisition: behavior
+variant: baseline
+cognitive_domain: [attention, sustained-attention, response-inhibition]
+maturity: draft
+version: {release_tag: v0.1.0}
+contracts: {taps: v0.2.0}
+runtime: {profile: psyflow}
+evidence:
+  - https://doi.org/10.1016/S0028-3932(97)00015-8
+maintainer: [TaskBeacon]

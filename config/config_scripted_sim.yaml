@@ -1,0 +1,32 @@
+subinfo_fields: [{name: subject_id, type: int, constraints: {min: 101, max: 999, digits: 3}}]
+subinfo_mapping: {subject_id: 被试编号, Participant Information: 被试信息, registration_failed: 登记失败, registration_successful: 登记成功, invalid_input: "{field} 输入无效"}
+window: {size: [1280, 800], units: deg, screen: 0, bg_color: black, fullscreen: false, monitor_width_cm: 35.5, monitor_distance_cm: 50}
+task: {task_name: Sustained Attention to Response Task, save_path: ./outputs/sim, language: Chinese, voice_enabled: false, total_blocks: 1, total_trials: 18, trial_per_block: 18, conditions: [go, no_go], practice_repetitions_per_digit: 1, scored_repetitions_per_digit: 2, no_go_digit: 3, response_key: space, key_list: [space], seed_mode: same_across_sub, delta: 0.0, plan_seed: 64064, font_points: [48, 72, 94, 100, 120], font_heights_deg: [1.37, 2.06, 2.63, 2.75, 3.32], phase_order: [instruction, practice_intro, digit, mask_response, mask_hold, practice_summary, good_bye]}
+timing: {digit_duration: 0.025, mask_duration: 0.09}
+stimuli:
+  instruction: {type: text, font: SimHei, text: "除 3 外按空格；看到 3 不按。\n\n按空格继续。", color: white, height: 0.8, pos: [0, 0]}
+  practice_intro: {type: text, font: SimHei, text: "开始练习。按空格继续。", color: white, height: 0.85, pos: [0, 0]}
+  digit: {type: text, font: Symbol, text: "1", color: white, height: 2.0, pos: [0, 0]}
+  mask_ring: {type: circle, radius: 1.66, fillColor: black, lineColor: white, lineWidth: 2, pos: [0, 0]}
+  mask_bar_forward: {type: rect, width: 3.1, height: 0.07, fillColor: white, lineColor: white, lineWidth: 0, ori: 45, pos: [0, 0]}
+  mask_bar_backward: {type: rect, width: 3.1, height: 0.07, fillColor: white, lineColor: white, lineWidth: 0, ori: -45, pos: [0, 0]}
+  practice_summary: {type: text, font: SimHei, text: "练习完成。误按率 {commission}，漏按率 {omission}。\n\n按空格继续。", color: white, height: 0.8, pos: [0, 0]}
+  good_bye: {type: text, font: SimHei, text: "完成。命中 {go_hit}，误按 {commission}，漏按 {omission}，平均 {mean_rt}，标准差 {rt_sd}。\n\n按空格退出。", color: white, height: 0.8, pos: [0, 0]}
+triggers:
+  map: {experiment_start: 1, block_start: 10, digit_go: 20, digit_no_go: 21, mask: 30, go_response: 40, commission_error: 41, omission_error: 42, block_end: 90, experiment_end: 99}
+  driver: {type: serial_url, url: "loop://", baudrate: 115200, timeout: 1}
+  policy: {strict: false}
+  timing: {post_delay_s: 0.001}
+sim:
+  output_dir: outputs/sim
+  seed: 64064
+  participant_id: sim001
+  session_id: sub-sim001_task-sart_seed64064
+  log_path: outputs/sim/sub-sim001_task-sart_seed64064_sim_events.jsonl
+  policy: warn
+  default_rt_s: 0.08
+  clamp_rt: false
+  enable_scaling: true
+  timing_scale: 0.05
+  min_frames: 1
+  responder: {type: scripted, kwargs: {key: space, rt_s: 0.08}}

@@ -1,0 +1,1849 @@
+[
+  {
+    "id": "W2005105933",
+    "title": "The Role of Alpha-Band Brain Oscillations as a Sensory Suppression Mechanism during Selective Attention",
+    "authors": [
+      "John J. Foxe",
+      "A. C. Snyder"
+    ],
+    "year": 2011,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2011.00154",
+    "citation_count": 1618,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2096972053",
+    "title": "Left inferior frontal gyrus is critical for response inhibition",
+    "authors": [
+      "Diane Swick",
+      "Victoria Ashley",
+      "And U. Turken"
+    ],
+    "year": 2008,
+    "journal": "BMC Neuroscience",
+    "doi_or_url": "https://doi.org/10.1186/1471-2202-9-102",
+    "citation_count": 759,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2039517753",
+    "title": "Why does working memory capacity predict variation in reading comprehension? On the influence of mind wandering and executive attention.",
+    "authors": [
+      "Jennifer C. McVay",
+      "Michael J. Kane"
+    ],
+    "year": 2011,
+    "journal": "Journal of Experimental Psychology General",
+    "doi_or_url": "https://doi.org/10.1037/a0025250",
+    "citation_count": 575,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2064339769",
+    "title": "Mind-wandering: Phenomenology and function as assessed with a novel experience sampling method",
+    "authors": [
+      "David Stawarczyk",
+      "Steve Majerus",
+      "Michalina Maj",
+      "Martial Van der Linden",
+      "Arnaud D\u2019Argembeau"
+    ],
+    "year": 2011,
+    "journal": "Acta Psychologica",
+    "doi_or_url": "https://doi.org/10.1016/j.actpsy.2011.01.002",
+    "citation_count": 508,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2177261198",
+    "title": "Cognitive Performance, Sleepiness, and Mood in Partially Sleep Deprived Adolescents: The Need for Sleep Study",
+    "authors": [
+      "June C. Lo",
+      "Ju Lynn Ong",
+      "Ruth L F Leong",
+      "Joshua J. Gooley",
+      "Michael W.L. Chee"
+    ],
+    "year": 2016,
+    "journal": "SLEEP",
+    "doi_or_url": "https://doi.org/10.5665/sleep.5552",
+    "citation_count": 431,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2109720649",
+    "title": "Drifting from slow to \u201cd'oh!\u201d: Working memory capacity and mind wandering predict extreme reaction times and executive control errors.",
+    "authors": [
+      "Jennifer C. McVay",
+      "Michael J. Kane"
+    ],
+    "year": 2011,
+    "journal": "Journal of Experimental Psychology Learning Memory and Cognition",
+    "doi_or_url": "https://doi.org/10.1037/a0025896",
+    "citation_count": 389,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2132709875",
+    "title": "Effects of Focal Frontal Lesions on Response Inhibition",
+    "authors": [
+      "T. W. Picton",
+      "D. T. Stuss",
+      "Michael P. Alexander",
+      "Tim Shallice",
+      "Malcolm A. Binns",
+      "Susan Gillingham"
+    ],
+    "year": 2006,
+    "journal": "Cerebral Cortex",
+    "doi_or_url": "https://doi.org/10.1093/cercor/bhk031",
+    "citation_count": 384,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1997199228",
+    "title": "The lights are on but no one\u2019s home: Meta-awareness and the decoupling of attention when the mind wanders",
+    "authors": [
+      "Jonathan Smallwood",
+      "Merrill McSpadden",
+      "Jonathan W. Schooler"
+    ],
+    "year": 2007,
+    "journal": "Psychonomic Bulletin & Review",
+    "doi_or_url": "https://doi.org/10.3758/bf03194102",
+    "citation_count": 355,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2096328158",
+    "title": "Effects of Partial and Acute Total Sleep Deprivation on Performance across Cognitive Domains, Individuals and Circadian Phase",
+    "authors": [
+      "June C. Lo",
+      "John A. Groeger",
+      "Nayantara Santhi",
+      "Emma L Arbon",
+      "Alp\u00e1r S. L\u00e1z\u00e1r",
+      "Sibah Hasan",
+      "Malcolm von Schantz",
+      "Simon Archer",
+      "Derk\u2010Jan Dijk"
+    ],
+    "year": 2012,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0045987",
+    "citation_count": 337,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2105942783",
+    "title": "Neural Correlates of Ongoing Conscious Experience: Both Task-Unrelatedness and Stimulus-Independence Are Related to Default Network Activity",
+    "authors": [
+      "David Stawarczyk",
+      "Steve Majerus",
+      "Pierre Maquet",
+      "Arnaud D\u2019Argembeau"
+    ],
+    "year": 2011,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0016997",
+    "citation_count": 313,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2080523691",
+    "title": "Rehabilitation of Executive Functioning in Patients with Frontal Lobe Brain Damage with Goal Management Training",
+    "authors": [
+      "Brian Levine",
+      "Tom A. Schweizer",
+      "Charlene O\u2019Connor",
+      "Gary R. Turner",
+      "Susan Gillingham",
+      "Donald T. Stuss",
+      "Tom Manly",
+      "Ian H. Robertson"
+    ],
+    "year": 2011,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2011.00009",
+    "citation_count": 304,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1994335035",
+    "title": "Inhibition, flexibility, working memory and planning in autism spectrum disorders with and without comorbid ADHD-symptoms",
+    "authors": [
+      "Judith Sinzig",
+      "Dagmar Morsch",
+      "Nicole Bruning",
+      "Martin H. Schmidt",
+      "Gerd Lehmkuhl"
+    ],
+    "year": 2008,
+    "journal": "Child and Adolescent Psychiatry and Mental Health",
+    "doi_or_url": "https://doi.org/10.1186/1753-2000-2-4",
+    "citation_count": 267,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2059427866",
+    "title": "When the Brain Takes a Break: A Model-Based Analysis of Mind Wandering",
+    "authors": [
+      "Matthias Mittner",
+      "Wouter Boekel",
+      "Adrienne M. Tucker",
+      "Brandon M. Turner",
+      "Andrew Heathcote",
+      "Birte U. Forstmann"
+    ],
+    "year": 2014,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.2062-14.2014",
+    "citation_count": 251,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2099860203",
+    "title": "Not All Errors Are Alike: Theta and Alpha EEG Dynamics Relate to Differences in Error-Processing Dynamics",
+    "authors": [
+      "Joram van Driel",
+      "K. Richard Ridderinkhof",
+      "Michael X Cohen"
+    ],
+    "year": 2012,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.0802-12.2012",
+    "citation_count": 235,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2742951402",
+    "title": "Detecting and Quantifying Mind Wandering during Simulated Driving",
+    "authors": [
+      "Carryl L. Baldwin",
+      "Daniel M. Roberts",
+      "Daniela Barrag\u00e1n",
+      "John D. Lee",
+      "Neil Lerner",
+      "J. Stephen Higgins"
+    ],
+    "year": 2017,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2017.00406",
+    "citation_count": 226,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3174495281",
+    "title": "Predicting lapses of attention with sleep-like slow waves",
+    "authors": [
+      "Thomas Andrillon",
+      "Angus C. Burns",
+      "Teigane Mackay",
+      "Jennifer Windt",
+      "Naotsugu Tsuchiya"
+    ],
+    "year": 2021,
+    "journal": "Nature Communications",
+    "doi_or_url": "https://doi.org/10.1038/s41467-021-23890-7",
+    "citation_count": 207,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2073285001",
+    "title": "Sustained attention, attentional selectivity, and attentional capacity across the lifespan",
+    "authors": [
+      "Laura P. McAvinue",
+      "Thomas Habekost",
+      "Katherine A. Johnson",
+      "S\u00f8ren Kyllingsb\u00e6k",
+      "Signe Vangkilde",
+      "Claus Bundesen",
+      "Ian H. Robertson"
+    ],
+    "year": 2012,
+    "journal": "Attention Perception & Psychophysics",
+    "doi_or_url": "https://doi.org/10.3758/s13414-012-0352-6",
+    "citation_count": 206,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2013293845",
+    "title": "Sustaining visual attention in the face of distraction: a novel gradual-onset continuous performance task",
+    "authors": [
+      "Monica D. Rosenberg",
+      "Sarah K. Noonan",
+      "Joseph DeGutis",
+      "Michael Esterman"
+    ],
+    "year": 2013,
+    "journal": "Attention Perception & Psychophysics",
+    "doi_or_url": "https://doi.org/10.3758/s13414-012-0413-x",
+    "citation_count": 199,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2071911599",
+    "title": "Everyday attention and lecture retention: the effects of time, fidgeting, and mind wandering",
+    "authors": [
+      "James Farley",
+      "Evan F. Risko",
+      "Alan Kingstone"
+    ],
+    "year": 2013,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2013.00619",
+    "citation_count": 189,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2158292481",
+    "title": "Loss of insight in frontotemporal dementia, corticobasal degeneration and progressive supranuclear palsy",
+    "authors": [
+      "Fiadhnait O\u2019Keeffe",
+      "Brian Murray",
+      "R. F. Coen",
+      "Paul M. Dockree",
+      "Mark A. Bellgrove",
+      "Hugh Garavan",
+      "Timothy Lynch",
+      "Ian H. Robertson"
+    ],
+    "year": 2007,
+    "journal": "Brain",
+    "doi_or_url": "https://doi.org/10.1093/brain/awl367",
+    "citation_count": 187,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2167716092",
+    "title": "Elderly with Autism: Executive Functions and Memory",
+    "authors": [
+      "Hilde M. Geurts",
+      "Marlies E. Vissers"
+    ],
+    "year": 2011,
+    "journal": "Journal of Autism and Developmental Disorders",
+    "doi_or_url": "https://doi.org/10.1007/s10803-011-1291-0",
+    "citation_count": 172,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1987890167",
+    "title": "Working memory and executive function: The influence of content and load on the control of attention",
+    "authors": [
+      "Robert Hester",
+      "Hugh Garavan"
+    ],
+    "year": 2005,
+    "journal": "Memory & Cognition",
+    "doi_or_url": "https://doi.org/10.3758/bf03195311",
+    "citation_count": 166,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2041575304",
+    "title": "Working memory and cognitive flexibility\u2010training for children with an autism spectrum disorder: a randomized controlled trial",
+    "authors": [
+      "Marieke de Vries",
+      "Pier J. M. Prins",
+      "Ben Schmand",
+      "Hilde M. Geurts"
+    ],
+    "year": 2014,
+    "journal": "Journal of Child Psychology and Psychiatry",
+    "doi_or_url": "https://doi.org/10.1111/jcpp.12324",
+    "citation_count": 160,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2168927545",
+    "title": "Unraveling the Anxious Mind: Anxiety, Worry, and Frontal Engagement in Sustained Attention Versus Off-Task Processing",
+    "authors": [
+      "Sophie Forster",
+      "Anwar O. N\u00fa\u00f1ez-Elizalde",
+      "Ellen M. Castle",
+      "Sonia J. Bishop"
+    ],
+    "year": 2013,
+    "journal": "Cerebral Cortex",
+    "doi_or_url": "https://doi.org/10.1093/cercor/bht248",
+    "citation_count": 144,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2170259053",
+    "title": "Dose-Related Effects of Alcohol on Cognitive Functioning",
+    "authors": [
+      "Matthew J. Dry",
+      "Nicholas R. Burns",
+      "Ted Nettelbeck",
+      "Aaron L. Farquharson",
+      "Jason M. White"
+    ],
+    "year": 2012,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0050977",
+    "citation_count": 135,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2044499762",
+    "title": "A meta-analysis of response inhibition and Stroop interference control deficits in adults with traumatic brain injury (TBI)",
+    "authors": [
+      "Aneta Dimoska-Di Marco",
+      "Skye McDonald",
+      "Michelle Kelly",
+      "Robyn Tate",
+      "Stuart J. Johnstone"
+    ],
+    "year": 2011,
+    "journal": "Journal of Clinical and Experimental Neuropsychology",
+    "doi_or_url": "https://doi.org/10.1080/13803395.2010.533158",
+    "citation_count": 132,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2043808801",
+    "title": "Frontotemporal correlates of impulsivity and machine learning in retired professional athletes with a history of multiple concussions",
+    "authors": [
+      "Ruma Goswami",
+      "Paul Dufort",
+      "Maria Carmela Tartaglia",
+      "Robin Green",
+      "Adrian P. Crawley",
+      "Charles H. Tator",
+      "Richard Wennberg",
+      "David J. Mikulis",
+      "Michelle Keightley",
+      "Karen D. Davis"
+    ],
+    "year": 2015,
+    "journal": "Brain Structure and Function",
+    "doi_or_url": "https://doi.org/10.1007/s00429-015-1012-0",
+    "citation_count": 132,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2969637628",
+    "title": "Does the Mind Wander When the Brain Takes a Break? Local Sleep in Wakefulness, Attentional Lapses and Mind-Wandering",
+    "authors": [
+      "Thomas Andrillon",
+      "Jennifer Windt",
+      "Timothy J. Silk",
+      "Sean P. A. Drummond",
+      "Mark A. Bellgrove",
+      "Naotsugu Tsuchiya"
+    ],
+    "year": 2019,
+    "journal": "Frontiers in Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnins.2019.00949",
+    "citation_count": 126,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3089772627",
+    "title": "Probing the neural signature of mind wandering with simultaneous fMRI-EEG and pupillometry",
+    "authors": [
+      "Josephine Maria Groot",
+      "Nya Mehnwolo Boayue",
+      "G\u00e1bor Csifcs\u00e1k",
+      "Wouter Boekel",
+      "Ren\u00e9 J. Huster",
+      "Birte U. Forstmann",
+      "Matthias Mittner"
+    ],
+    "year": 2020,
+    "journal": "NeuroImage",
+    "doi_or_url": "https://doi.org/10.1016/j.neuroimage.2020.117412",
+    "citation_count": 125,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2051090072",
+    "title": "A phenomenology of meditation-induced light experiences: traditional buddhist and neurobiological perspectives",
+    "authors": [
+      "Jared R. Lindahl",
+      "Christopher T. Kaplan",
+      "Evan M. Winget",
+      "Willoughby B. Britton"
+    ],
+    "year": 2014,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2013.00973",
+    "citation_count": 123,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2809491487",
+    "title": "Does intrinsic reward motivate cognitive control? a naturalistic-fMRI study based on the synchronization theory of flow",
+    "authors": [
+      "Richard Huskey",
+      "Britney Craighead",
+      "Michael B. Miller",
+      "Ren\u00e9 Weber"
+    ],
+    "year": 2018,
+    "journal": "Cognitive Affective & Behavioral Neuroscience",
+    "doi_or_url": "https://doi.org/10.3758/s13415-018-0612-6",
+    "citation_count": 115,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2031715874",
+    "title": "The Vigilance Decrement in Executive Function Is Attenuated When Individual Chronotypes Perform at Their Optimal Time of Day",
+    "authors": [
+      "Tania Lara",
+      "Juan Antonio Madrid",
+      "\u00c1ngel Correa"
+    ],
+    "year": 2014,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0088820",
+    "citation_count": 113,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2170761854",
+    "title": "The impact of induced anxiety on response inhibition",
+    "authors": [
+      "Oliver J. Robinson",
+      "Marissa Krimsky",
+      "Christian Grillon"
+    ],
+    "year": 2013,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2013.00069",
+    "citation_count": 113,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1980759396",
+    "title": "Executive function and bilingualism in young and older adults",
+    "authors": [
+      "Shanna Kousaie"
+    ],
+    "year": 2014,
+    "journal": "Frontiers in Behavioral Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnbeh.2014.00250",
+    "citation_count": 109,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2030118210",
+    "title": "Burned out cognition \u2013 cognitive functioning of burnout patients before and after a period with psychological treatment",
+    "authors": [
+      "Bart G. Oosterholt",
+      "Dimitri van der Linden",
+      "Joseph H. R. Maes",
+      "Marc Verbraak",
+      "Michiel A. J. Kompier"
+    ],
+    "year": 2011,
+    "journal": "Scandinavian Journal of Work Environment & Health",
+    "doi_or_url": "https://doi.org/10.5271/sjweh.3256",
+    "citation_count": 104,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2580125444",
+    "title": "fMRI Neurofeedback Training for Increasing Anterior Cingulate Cortex Activation in Adult Attention Deficit Hyperactivity Disorder. An Exploratory Randomized, Single-Blinded Study",
+    "authors": [
+      "Anna Zilverstand",
+      "Bettina Sorger",
+      "Dorine Slaats\u2010Willemse",
+      "Cornelis C. Kan",
+      "Rainer Goebel",
+      "Jan K. Buitelaar"
+    ],
+    "year": 2017,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0170795",
+    "citation_count": 104,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2160615769",
+    "title": "Executive control and felt concentrative engagement following intensive meditation training",
+    "authors": [
+      "Anthony P. Zanesco",
+      "Brandon G. King",
+      "Katherine A. MacLean",
+      "Clifford D. Saron"
+    ],
+    "year": 2013,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2013.00566",
+    "citation_count": 96,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1998808110",
+    "title": "Tonic and phasic alertness training: a novel behavioral therapy to improve spatial and non-spatial attention in patients with hemispatial neglect",
+    "authors": [
+      "Joseph DeGutis"
+    ],
+    "year": 2010,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2010.00060",
+    "citation_count": 91,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2031637761",
+    "title": "Noradrenergic genotype predicts lapses in sustained attention",
+    "authors": [
+      "Ciara M. Greene",
+      "Mark A. Bellgrove",
+      "Michael Gill",
+      "Ian H. Robertson"
+    ],
+    "year": 2008,
+    "journal": "Neuropsychologia",
+    "doi_or_url": "https://doi.org/10.1016/j.neuropsychologia.2008.10.003",
+    "citation_count": 89,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2597633826",
+    "title": "Exercise to reduce work-related fatigue among employees: a randomized controlled trial",
+    "authors": [
+      "Juriena D. de Vries",
+      "Madelon LM van Hooff",
+      "Sabine AE Guerts",
+      "Michiel A. J. Kompier"
+    ],
+    "year": 2017,
+    "journal": "Scandinavian Journal of Work Environment & Health",
+    "doi_or_url": "https://doi.org/10.5271/sjweh.3634",
+    "citation_count": 84,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2332577028",
+    "title": "Exercise as an Intervention to Reduce Study-Related Fatigue among University Students: A Two-Arm Parallel Randomized Controlled Trial",
+    "authors": [
+      "Juriena D. de Vries",
+      "Madelon L. M. van Hooff",
+      "Sabine A. E. Geurts",
+      "Michiel A. J. Kompier"
+    ],
+    "year": 2016,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0152137",
+    "citation_count": 78,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2120007541",
+    "title": "In pursuit of off-task thought: mind wandering-performance trade-offs while reading aloud and color naming",
+    "authors": [
+      "David R. Thomson",
+      "Derek Besner",
+      "Daniel Smilek"
+    ],
+    "year": 2013,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2013.00360",
+    "citation_count": 77,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4280543706",
+    "title": "A Nudge-Based Intervention to Reduce Problematic Smartphone Use: Randomised Controlled Trial",
+    "authors": [
+      "Jay A. Olson",
+      "Dasha A. Sandra",
+      "Denis Chmoulevitch",
+      "Amir Raz",
+      "Samuel P. L. Veissi\u00e8re"
+    ],
+    "year": 2022,
+    "journal": "International Journal of Mental Health and Addiction",
+    "doi_or_url": "https://doi.org/10.1007/s11469-022-00826-w",
+    "citation_count": 77,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2294596655",
+    "title": "Developmental brain trajectories in children with ADHD and controls: a longitudinal neuroimaging study",
+    "authors": [
+      "Timothy J. Silk",
+      "Sila Genc",
+      "Vicki Anderson",
+      "Daryl Efron",
+      "Philip Hazell",
+      "Jan M. Nicholson",
+      "Michael Kean",
+      "Charles B. Malpas",
+      "Emma Sciberras"
+    ],
+    "year": 2016,
+    "journal": "BMC Psychiatry",
+    "doi_or_url": "https://doi.org/10.1186/s12888-016-0770-4",
+    "citation_count": 75,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2133631362",
+    "title": "Lesion neuroanatomy of the Sustained Attention to Response task",
+    "authors": [
+      "Pascal Molenberghs",
+      "C\u00e9line R. Gillebert",
+      "Hanne Schoofs",
+      "Patrick Dupont",
+      "Ronald Peeters",
+      "Rik Vandenberghe"
+    ],
+    "year": 2009,
+    "journal": "Neuropsychologia",
+    "doi_or_url": "https://doi.org/10.1016/j.neuropsychologia.2009.06.012",
+    "citation_count": 73,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3092381209",
+    "title": "Sensorimotor cortex beta oscillations reflect motor skill learning ability after stroke",
+    "authors": [
+      "Svenja Espenhahn",
+      "Holly E. Rossiter",
+      "Bernadette C.M. van Wijk",
+      "Nell Redman",
+      "Jane Maryam Rondina",
+      "J\u00f6rn Diedrichsen",
+      "Nick Ward"
+    ],
+    "year": 2020,
+    "journal": "Brain Communications",
+    "doi_or_url": "https://doi.org/10.1093/braincomms/fcaa161",
+    "citation_count": 68,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2117605492",
+    "title": "Intraindividual reaction time variability affects P300 amplitude rather than latency",
+    "authors": [
+      "Anusha Ramchurn",
+      "Jan W. de Fockert",
+      "Luke Mason",
+      "Stephen Darling",
+      "David Bunce"
+    ],
+    "year": 2014,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2014.00557",
+    "citation_count": 68,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2047733671",
+    "title": "Characterization of mind wandering using fNIRS",
+    "authors": [
+      "Gautier Durantin",
+      "Fr\u00e9d\u00e9ric Dehais",
+      "Arnaud Delorme"
+    ],
+    "year": 2015,
+    "journal": "Frontiers in Systems Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnsys.2015.00045",
+    "citation_count": 67,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2026750067",
+    "title": "Can mind-wandering be timeless? Atemporal focus and aging in mind-wandering paradigms",
+    "authors": [
+      "Jonathan Jackson",
+      "Yana Weinstein",
+      "David A. Balota"
+    ],
+    "year": 2013,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2013.00742",
+    "citation_count": 67,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2547436274",
+    "title": "Gender Differences in Sustained Attentional Control Relate to Gender Inequality across Countries",
+    "authors": [
+      "Elizabeth Riley",
+      "Hidefusa Okabe",
+      "Laura Germine",
+      "Jeremy Wilmer",
+      "Michael Esterman",
+      "Joseph DeGutis"
+    ],
+    "year": 2016,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0165100",
+    "citation_count": 66,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2145894834",
+    "title": "Differential Synchronization in Default and Task-Specific Networks of the Human Brain",
+    "authors": [
+      "Aaron Kirschner",
+      "Julia W. Y. Kam",
+      "Todd C. Handy",
+      "Lawrence M. Ward"
+    ],
+    "year": 2012,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2012.00139",
+    "citation_count": 65,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W253228913",
+    "title": "Not enough time or not enough attention? Speed, error and self-maintained control in the Sustained Attention to Response Test (SART)",
+    "authors": [
+      "Tom Manly",
+      "Bruce Davison",
+      "Joost Heutink",
+      "Maria Galloway",
+      "Ian H. Robertson"
+    ],
+    "year": 2000,
+    "journal": "Data Archiving and Networked Services (DANS)",
+    "doi_or_url": "https://openalex.org/W253228913",
+    "citation_count": 64,
+    "is_high_impact": false,
+    "open_access": false,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2990246522",
+    "title": "Mindfulness-Based Blood Pressure Reduction (MB-BP): Stage 1 single-arm clinical trial",
+    "authors": [
+      "Eric B. Loucks",
+      "William Nardi",
+      "Roee Gutman",
+      "Ian M. Kronish",
+      "Frances B. Saadeh",
+      "Yu Li",
+      "Anna E. Wentz",
+      "Julie Webb",
+      "David R. Vago",
+      "Abigail Harrison",
+      "Willoughby B. Britton"
+    ],
+    "year": 2019,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0223095",
+    "citation_count": 63,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2084614098",
+    "title": "The P300 as a Marker of Waning Attention and Error Propensity",
+    "authors": [
+      "Avijit Datta",
+      "Rhodri Cusack",
+      "Kari Hawkins",
+      "Joost Heutink",
+      "Chris Rorden",
+      "Ian H. Robertson",
+      "Tom Manly"
+    ],
+    "year": 2007,
+    "journal": "Computational Intelligence and Neuroscience",
+    "doi_or_url": "https://doi.org/10.1155/2007/93968",
+    "citation_count": 63,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2917154121",
+    "title": "Clinical and Experimental Factors Influencing the Efficacy of Neurofeedback in ADHD: A Meta-Analysis",
+    "authors": [
+      "Aurore Bussalb",
+      "Marco Congedo",
+      "Quentin Barth\u00e9lemy",
+      "David Ojeda",
+      "\u00c9ric Acquaviva",
+      "Richard Delorme",
+      "Louis Mayaud"
+    ],
+    "year": 2019,
+    "journal": "Frontiers in Psychiatry",
+    "doi_or_url": "https://doi.org/10.3389/fpsyt.2019.00035",
+    "citation_count": 62,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2902944100",
+    "title": "Does walking protect against decline in cognitive functioning among breast cancer patients undergoing chemotherapy? Results from a small randomised controlled trial",
+    "authors": [
+      "Kajal Gokal",
+      "Fehmidah Munir",
+      "Samreen Ahmed",
+      "Kiran Kancherla",
+      "Deborah J. Wallis"
+    ],
+    "year": 2018,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0206874",
+    "citation_count": 60,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2295240247",
+    "title": "The Cognitive Reflection Test: how much more than Numerical Ability?",
+    "authors": [
+      "Matthew Welsh",
+      "Nicholas R. Burns",
+      "Paul Delfabbro"
+    ],
+    "year": 2013,
+    "journal": "eScholarship (California Digital Library)",
+    "doi_or_url": "https://openalex.org/W2295240247",
+    "citation_count": 59,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2591767650",
+    "title": "Auditory training changes temporal lobe connectivity in \u2018Wernicke\u2019s aphasia\u2019: a randomised trial",
+    "authors": [
+      "Zoe VJ Woodhead",
+      "Jenny Crinion",
+      "Sundeep Teki",
+      "W.D. Penny",
+      "Cathy J. Price",
+      "Alexander Leff"
+    ],
+    "year": 2017,
+    "journal": "Journal of Neurology Neurosurgery & Psychiatry",
+    "doi_or_url": "https://doi.org/10.1136/jnnp-2016-314621",
+    "citation_count": 57,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2909445620",
+    "title": "Restorative Effects of Classroom Soundscapes on Children\u2019s Cognitive Performance",
+    "authors": [
+      "Shan Shu",
+      "Hui Ma"
+    ],
+    "year": 2019,
+    "journal": "International Journal of Environmental Research and Public Health",
+    "doi_or_url": "https://doi.org/10.3390/ijerph16020293",
+    "citation_count": 55,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1556170163",
+    "title": "\"Accessing Reproductive Technologies: Invisible Barriers, Indelible Harms\"",
+    "authors": [
+      "Judith Daar"
+    ],
+    "year": 2008,
+    "journal": "Unknown",
+    "doi_or_url": "https://doi.org/10.15779/z386p65",
+    "citation_count": 55,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2465008098",
+    "title": "Go-stimuli proportion influences response strategy in a sustained attention to response task",
+    "authors": [
+      "Kyle Wilson",
+      "Kristin M. Finkbeiner",
+      "Neil R. de Joux",
+      "Paul N. Russell",
+      "William S. Helton"
+    ],
+    "year": 2016,
+    "journal": "Experimental Brain Research",
+    "doi_or_url": "https://doi.org/10.1007/s00221-016-4701-x",
+    "citation_count": 54,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2368700791",
+    "title": "Impact of Mindfulness Training on Physiological Measures of Stress and Objective Measures of Attention Control in a Military Helicopter Unit",
+    "authors": [
+      "Anders Meland",
+      "Kazuma Ishimatsu",
+      "Anne Marte Pensgaard",
+      "Anthony Wagstaff",
+      "Vivianne Fonne",
+      "Anne Helene Garde",
+      "Anette Harris"
+    ],
+    "year": 2015,
+    "journal": "International Journal of Aviation Psychology",
+    "doi_or_url": "https://doi.org/10.1080/10508414.2015.1162639",
+    "citation_count": 54,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2497410752",
+    "title": "The importance of sustained attention in early Alzheimer's disease",
+    "authors": [
+      "Jonathan Huntley",
+      "Adam Hampshire",
+      "Daniel Bor",
+      "Adrian M. Owen",
+      "Robert Howard"
+    ],
+    "year": 2016,
+    "journal": "International Journal of Geriatric Psychiatry",
+    "doi_or_url": "https://doi.org/10.1002/gps.4537",
+    "citation_count": 52,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2103492641",
+    "title": "Cognitive functioning after medial frontal lobe damage including the anterior cingulate cortex: A preliminary investigation",
+    "authors": [
+      "Amee Baird",
+      "Bonnie-Kate Dewar",
+      "Hugo Critchley",
+      "Sam J. Gilbert",
+      "Raymond J. Dolan",
+      "Lisa Cipolotti"
+    ],
+    "year": 2005,
+    "journal": "Brain and Cognition",
+    "doi_or_url": "https://doi.org/10.1016/j.bandc.2005.11.003",
+    "citation_count": 52,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2398261323",
+    "title": "Effects of acute aerobic exercise on neural correlates of attention and inhibition in adolescents with bipolar disorder",
+    "authors": [
+      "Arron W.S. Metcalfe",
+      "Bradley J. MacIntosh",
+      "Antonette Scavone",
+      "Xiao Ou",
+      "Daphne J. Korczak",
+      "Benjamin I. Goldstein"
+    ],
+    "year": 2016,
+    "journal": "Translational Psychiatry",
+    "doi_or_url": "https://doi.org/10.1038/tp.2016.85",
+    "citation_count": 51,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3135854473",
+    "title": "Resting-State Network Plasticity Induced by Music Therapy after Traumatic Brain Injury",
+    "authors": [
+      "Noelia Mart\u00ednez\u2010Molina",
+      "Sini\u2010Tuuli Siponkoski",
+      "Linda Kuusela",
+      "Sari Laitinen",
+      "Milla Holma",
+      "Mirja Ahlfors",
+      "P\u00e4ivi Jordan-Kilkki",
+      "Katja Ala-Kauhaluoma",
+      "Susanna Melkas",
+      "Johanna Pekkola",
+      "Antoni Rodr\u00edguez\u2010Fornells",
+      "Matti Laine"
+    ],
+    "year": 2021,
+    "journal": "Neural Plasticity",
+    "doi_or_url": "https://doi.org/10.1155/2021/6682471",
+    "citation_count": 49,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2143942743",
+    "title": "The Relationship between Regular Sports Participation and Vigilance in Male and Female Adolescents",
+    "authors": [
+      "Rafael Ballester",
+      "Florentino Huertas",
+      "Francisco Javier Yuste",
+      "Francesc Llorens",
+      "Daniel Sanabria"
+    ],
+    "year": 2015,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0123898",
+    "citation_count": 49,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2260415297",
+    "title": "Friendly Fire and the Sustained Attention to Response Task",
+    "authors": [
+      "Kyle Wilson",
+      "James Head",
+      "Neil R. de Joux",
+      "Kristin M. Finkbeiner",
+      "William S. Helton"
+    ],
+    "year": 2015,
+    "journal": "Human Factors The Journal of the Human Factors and Ergonomics Society",
+    "doi_or_url": "https://doi.org/10.1177/0018720815605703",
+    "citation_count": 48,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3026439898",
+    "title": "Effects of caffeine intake and exercise intensity on executive and arousal vigilance",
+    "authors": [
+      "Carlos Sanch\u00eds",
+      "Esther Blasco",
+      "Fernando Gabriel Luna",
+      "Juan Lupi\u00e1\u00f1ez"
+    ],
+    "year": 2020,
+    "journal": "Scientific Reports",
+    "doi_or_url": "https://doi.org/10.1038/s41598-020-65197-5",
+    "citation_count": 47,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2897583558",
+    "title": "Transcranial stimulation of the frontal lobes increases propensity of mind-wandering without changing meta-awareness",
+    "authors": [
+      "Vadim Axelrod",
+      "Xingxing Zhu",
+      "Jiang Qiu"
+    ],
+    "year": 2018,
+    "journal": "Scientific Reports",
+    "doi_or_url": "https://doi.org/10.1038/s41598-018-34098-z",
+    "citation_count": 46,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2008463970",
+    "title": "Dawn simulation light impacts on different cognitive domains under sleep restriction",
+    "authors": [
+      "Virginie Gabel",
+      "Micheline Maire",
+      "Carolin Reichert",
+      "Sarah L. Chellappa",
+      "Christina Schmidt",
+      "Vanja Hommes",
+      "Christian Cajochen",
+      "Antoine Viola"
+    ],
+    "year": 2014,
+    "journal": "Behavioural Brain Research",
+    "doi_or_url": "https://doi.org/10.1016/j.bbr.2014.12.043",
+    "citation_count": 45,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2400368456",
+    "title": "Self-Reported Stickiness of Mind-Wandering Affects Task Performance",
+    "authors": [
+      "Marieke K. van Vugt",
+      "Nico Broers"
+    ],
+    "year": 2016,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2016.00732",
+    "citation_count": 45,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2580377516",
+    "title": "MiR-137-derived polygenic risk: effects on cognitive performance in patients with schizophrenia and controls",
+    "authors": [
+      "Donna Cosgrove",
+      "Denise Harold",
+      "Omar Mothersill",
+      "Richard Anney",
+      "Matthew Hill",
+      "Nicholas J. Bray",
+      "Gabri\u00eblla A.M. Blokland",
+      "Tracey L. Petryshen",
+      "Peter Donnelly",
+      "Lesley Bates",
+      "In\u00eas Barroso",
+      "Jenefer M. Blackwell"
+    ],
+    "year": 2017,
+    "journal": "Translational Psychiatry",
+    "doi_or_url": "https://doi.org/10.1038/tp.2016.286",
+    "citation_count": 44,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2987327218",
+    "title": "Role of the dorsal attention network in distracter suppression based on features",
+    "authors": [
+      "Armien Lanssens",
+      "Gloria Pizzamiglio",
+      "Dante Mantini",
+      "C\u00e9line R. Gillebert"
+    ],
+    "year": 2019,
+    "journal": "Cognitive Neuroscience",
+    "doi_or_url": "https://doi.org/10.1080/17588928.2019.1683525",
+    "citation_count": 43,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2623702534",
+    "title": "Sustained attention to a predictable, unengaging Go/No-Go task shows ongoing development between 6 and 11\u00a0years",
+    "authors": [
+      "Frances C. Lewis",
+      "Robert A. Reeve",
+      "Simon P. Kelly",
+      "Katherine A. Johnson"
+    ],
+    "year": 2017,
+    "journal": "Attention Perception & Psychophysics",
+    "doi_or_url": "https://doi.org/10.3758/s13414-017-1351-4",
+    "citation_count": 43,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2168956808",
+    "title": "Being a grump only makes things worse: a transactional account of acute stress on mind wandering",
+    "authors": [
+      "Melaina T. Vinski",
+      "Scott Watter"
+    ],
+    "year": 2013,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2013.00730",
+    "citation_count": 42,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2115190566",
+    "title": "Articulating Novel Words: Children's Oromotor Skills Predict Nonword Repetition Abilities",
+    "authors": [
+      "Saloni Krishnan",
+      "Katie Alcock",
+      "Evelyne Mercure",
+      "Robert Leech",
+      "Edward D. Barker",
+      "Annette Karmiloff\u2010Smith",
+      "Frederic Dick"
+    ],
+    "year": 2013,
+    "journal": "Journal of Speech Language and Hearing Research",
+    "doi_or_url": "https://doi.org/10.1044/1092-4388(2013/12-0206)",
+    "citation_count": 42,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3195659213",
+    "title": "The Effects of Age, Biological Maturation and Sex on the Development of Executive Functions in Adolescents",
+    "authors": [
+      "Felien Laureys",
+      "Lotte Middelbos",
+      "Nikki Rommers",
+      "Silke De Waelle",
+      "Eline Coppens",
+      "Mireille Mostaert",
+      "Frederik Deconinck",
+      "Matthieu Lenoir"
+    ],
+    "year": 2021,
+    "journal": "Frontiers in Physiology",
+    "doi_or_url": "https://doi.org/10.3389/fphys.2021.703312",
+    "citation_count": 41,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3184169554",
+    "title": "Variable rather than extreme slow reaction times distinguish brain states during sustained attention",
+    "authors": [
+      "Ayumu Yamashita",
+      "David Rothlein",
+      "Aaron Kucyi",
+      "Eve M. Valera",
+      "Laura Germine",
+      "Jeremy Wilmer",
+      "Joseph DeGutis",
+      "Michael Esterman"
+    ],
+    "year": 2021,
+    "journal": "Scientific Reports",
+    "doi_or_url": "https://doi.org/10.1038/s41598-021-94161-0",
+    "citation_count": 41,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2105984088",
+    "title": "The effects of Psychotropic drugs On Developing brain (ePOD) study: methods and design",
+    "authors": [
+      "Marco Bottelier",
+      "M.L.J. Schouw",
+      "Anne Klomp",
+      "Hyke G. H. Tamminga",
+      "Anouk Schrantee",
+      "Cheima Bouziane",
+      "Michiel B. de Ruiter",
+      "Frits Boer",
+      "Henricus G. Ruh\u00e9",
+      "Damiaan Denys",
+      "Roselyne M. Rijsman",
+      "Ram\u00f3n Lindauer"
+    ],
+    "year": 2014,
+    "journal": "BMC Psychiatry",
+    "doi_or_url": "https://doi.org/10.1186/1471-244x-14-48",
+    "citation_count": 39,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  }
+]

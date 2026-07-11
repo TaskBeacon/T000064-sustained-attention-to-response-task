@@ -1,0 +1,7 @@
+task_id: T000064
+generated_at: '2026-07-12T07:10:00Z'
+selection_policy: canonical_primary_plus_open_validation
+citation_threshold: 0
+papers:
+  - {id: ROBERTSON1997, title: "'Oops!': performance correlates of everyday attentional failures in traumatic brain injured and normal subjects", authors: [Ian H. Robertson, Tom Manly, Juan Andrade, Baddeley B. T., J. Yiend], year: 1997, journal: Neuropsychologia, doi_or_url: 'https://doi.org/10.1016/S0028-3932(97)00015-8', citation_count: 0, is_high_impact: true, open_access: false, used_for: [task_workflow, timing_parameters, stimulus_parameters], parameter_bindings: {}, notes: Canonical source.}
+  - {id: SELI2013, title: Enhancing SART validity by statistically controlling speed-accuracy trade-offs, authors: [Paul Seli, Jonathan S. A. Carriere, Daniel Smilek], year: 2013, journal: Frontiers in Psychology, doi_or_url: 'https://doi.org/10.3389/fpsyg.2013.00265', citation_count: 0, is_high_impact: false, open_access: true, used_for: [construct_validation, outcome_validation], parameter_bindings: {}, notes: Open validation.}

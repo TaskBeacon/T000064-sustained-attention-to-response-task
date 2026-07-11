@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+outputs/*
+!/outputs/.gitkeep
+*.log
+assets/*.mp3
+references/task_standard_report.json
+references/task_build_gate_report.json
